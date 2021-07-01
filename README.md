@@ -11,3 +11,5 @@ Random rn=new Random(double val); where val is initial seed
 
 Random.next() generates next Random number
 Random.next(double val); where val is the maximum random number you will get
+
+Random.seed(double val); where val is the next Seed
